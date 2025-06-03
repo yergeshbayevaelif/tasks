@@ -1,0 +1,25 @@
+#header{
+    color: red;  
+}
+body{
+    color:blue;
+}
+.container{
+    font-weight: 10000;
+}
+.title{
+    font-weight: 1000;
+}
+.div{
+    color:orange;
+    font-size: 16px;
+}
+.style1{
+    background-color: aquamarine;
+}
+.style2{
+    text-align: center;
+}
+#myElement{
+    font-weight: bold;
+}
